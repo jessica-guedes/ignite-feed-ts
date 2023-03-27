@@ -26,7 +26,7 @@ export function Comment({ content, onDeleteComment}: CommentProps) {
     <div className={styles.comment}>
       <Avatar 
         hasBorder={false} 
-        src="https:github.com/jessica-guedes.png" 
+        src="https:github.com/jakeliny.png" 
         alt="" 
       />
 
@@ -35,7 +35,7 @@ export function Comment({ content, onDeleteComment}: CommentProps) {
         <div className={styles.commentContent}>
           <header>
             <div className={styles.authorAndTime}>
-              <strong>Jéssica Guedes</strong>
+              <strong>Jakeliny</strong>
 
               <time 
                 title='22 de Março às 09:06h'
